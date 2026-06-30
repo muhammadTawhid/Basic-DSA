@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    // https://docs.google.com/document/d/1nxpbS-5RKFSwcJ6mHv3P2Vru9HTqXOeB/edit?pli=1
     //type 1;
     // vector <int> v; //size 0
     
